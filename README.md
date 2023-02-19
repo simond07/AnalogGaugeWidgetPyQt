@@ -1,4 +1,4 @@
-# AnaloGaugeWidgetPyQt
+# AnalogGaugeWidgetPyQt
 
 Custom QWidget 
 - compatible to PyQt4 and PyQt5
